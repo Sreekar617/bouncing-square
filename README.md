@@ -7,7 +7,7 @@ Download `dvd.exe` and run it.
 
 ##### Manual usage
 
-Download and extract the repository, and run `new.bat`
+Download and extract the repository, and run `new.bat` in an **x86 Native Tools Command Prompt**
 If it doesn't work, try deleting the line that says `/TINYIMPORT`. If it still doesn't work, try deleting `/TINYHEADER` and `/UNALIGNCODE`
 
 ##### Reading the code
