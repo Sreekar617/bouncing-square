@@ -4,7 +4,8 @@ bouncing square dvd-style, all within 635 bytes. This project was made for Hack 
 ## Usage
 
 Download `dvd.exe` and run it. Or if you're cool, scan this qr code, and run the downloaded file as an exe (rename it to something.exe)
-![qr](https://github.com/user-attachments/assets/50fedf3c-e1a4-4664-b843-3e4dd72dd0ea)
+
+![qr](https://github.com/Sreekar617/bouncing-square/blob/main/qr.png?raw=true)
 
 
 ### Manual usage
