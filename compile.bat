@@ -1,0 +1,1 @@
+cl.exe /c /O1 /GS- /MD /EHsc /Tc test.cpp /Fo:test.obj
