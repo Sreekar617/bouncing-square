@@ -1,5 +1,7 @@
 # bouncing-square
 bouncing square dvd-style, all within 635 bytes. This project was made for Hack Club's [Say Cheese](https://saycheese.hackclub.com/), inspired by MattKC's [Snake in a QR Code](https://www.youtube.com/watch?v=ExwqNreocpg)
+<br>
+This project is squished into 635 bytes by using only the win32 api, and not using any standard libraries. This makes the program ideal for linking and compression by [Crinkler](https://github.com/runestubbe/Crinkler), getting the program down to 635 bytes.
 
 ## Usage
 
